@@ -1,0 +1,1 @@
+extern void debug(const char* restrict format, ...);
